@@ -1,9 +1,9 @@
 {
-  "name": "wabot-aq",
+  "name": "api",
   "version": "1.6.0",
-  "description": "Customizable WhatsApp Bot",
+  "description": "apikey",
   "depecrated": false,
-  "main": "index.js",
+  "main": "main.py",
   "directories": {
     "lib": "lib",
     "css": "css",
@@ -36,7 +36,7 @@
     "attrs": "^20.2.0",
     "beautifulsoup4": "^.9.1",
     "bs4": "^0.0.1",
-    "certifi"^2020.6.20",
+    "certifi": "^2020.6.20",
     "chardet": "^3.0.4",
     "click": "^7.1.2",
     "Flask": "^1.1.2",
